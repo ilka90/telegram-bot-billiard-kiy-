@@ -4,7 +4,7 @@ import random
 import time
 
 # Введи свій токен бота
-TOKEN = "7972359058:AAES3a7Xc5g6VBNEo3-IvH2Is5ODMdOoOYk"
+TOKEN = "" #your TOKEN
 bot = TeleBot(TOKEN)
 
 # Підключення до бази даних SQLite (створюється файл players.db)
